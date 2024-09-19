@@ -1,5 +1,15 @@
-# 💫 About Me:
-## About Me 👋<br><br>Hi there! I'm **Mohamed Emad**, a passionate and aspiring developer from Minya, Egypt. I'm currently pursuing my studies in **Computer Science and Artificial Intelligence**. I have a growing interest in **Flutter** and **Laravel**, and I love building modern and intuitive user interfaces.<br><br>🔭 Current Focus<br>- **Learning and mastering Flutter** for mobile app development.<br>- **Exploring Laravel** to enhance my backend development skills.<br>- **Building projects** to sharpen my coding skills and contribute to the open-source community.<br><br>🌱 Always Learning<br>- **Diving deeper into software development** and improving my knowledge of best practices.<br>- **Exploring new technologies** and frameworks to stay up-to-date with the latest trends in the tech industry.<br><br>
+## About Me 👋
+
+Hi there! I'm **Mohamed Emad**, a passionate and aspiring developer from  Egypt. I'm currently pursuing my studies in **Computer Science and Artificial Intelligence**. I have a growing interest in **Flutter** and **Laravel**, and I love building modern and intuitive user interfaces.
+
+### 🔭 Current Focus
+- **Learning and mastering Flutter** for mobile app development.
+- **Exploring Laravel** to enhance my backend development skills.
+- **Building projects** to sharpen my coding skills and contribute to the open-source community.
+
+### 🌱 Always Learning
+- **Diving deeper into software development** and improving my knowledge of best practices.
+- **Exploring new technologies** and frameworks to stay up-to-date with the latest trends in the tech industry.
 
 
 ## 🌐 Socials:
